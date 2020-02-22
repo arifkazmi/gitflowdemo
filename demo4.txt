@@ -1,0 +1,2 @@
+Hi, this is git hub practice making changes into text files a lot
+we are her to learn git hub to manage our version control betterly
